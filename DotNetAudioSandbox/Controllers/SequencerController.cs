@@ -9,7 +9,7 @@ using DotNetAudioSandbox.Models;
 
 namespace DotNetAudioSandbox.Controllers
 {
-  public class BoomboxController : Controller
+  public class SequencerController : Controller
   {
     public ActionResult Index()
     {
